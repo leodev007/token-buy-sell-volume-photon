@@ -21,6 +21,7 @@ npm install
 # Start the application
 npm run start
 
+```
 
 ### 👤 Author
 
